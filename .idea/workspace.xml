@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b125433f-eba9-4bc9-878d-1bb431561e25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/NoteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/NoteController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_03_04_125351_create_notes_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_03_04_125351_create_notes_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +161,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583324334875</updated>
       <workItem from="1583324336103" duration="923000" />
-      <workItem from="1583326291524" duration="751000" />
+      <workItem from="1583326291524" duration="918000" />
+      <workItem from="1583328399847" duration="416000" />
     </task>
     <servers />
   </component>
@@ -170,9 +170,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583327033101">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583328622676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583327033101" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583328622676" />
   </component>
 </project>
