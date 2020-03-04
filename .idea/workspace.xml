@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b125433f-eba9-4bc9-878d-1bb431561e25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Console/Commands/DailyEmailCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Commands/DailyEmailCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,7 @@
       <updated>1583324334875</updated>
       <workItem from="1583324336103" duration="923000" />
       <workItem from="1583326291524" duration="918000" />
-      <workItem from="1583328399847" duration="1064000" />
+      <workItem from="1583328399847" duration="2108000" />
     </task>
     <servers />
   </component>
@@ -170,9 +170,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583328622676">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583329733234">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583328622676" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583329733234" />
   </component>
 </project>
