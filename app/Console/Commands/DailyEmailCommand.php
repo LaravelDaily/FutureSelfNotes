@@ -44,9 +44,13 @@ class DailyEmailCommand extends Command
         $tags = Tag::all();
         $notes = [];
         foreach ($tags as $tag) {
-            $note = Note::with('tags')->whereHas('tags', function($q) use ($tag) {
-                return $q->where('id', $tag->id);
-            })->whereNotIn('id', array_keys($notes))->first();
+            $note = Note::with('tags')
+                ->whereHas('tags', function($q) use ($tag) {
+                    return $q->where('id', $tag->id);
+                })
+                ->whereNotIn('id', array_keys($notes))
+                ->inRandomOrder()
+                ->first();
 
             if ($note) {
                 $notes[$note->id] = $note;
